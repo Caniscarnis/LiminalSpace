@@ -39,6 +39,11 @@ Describe at least three meaningful revisions made after testing.
 
 ## Credits
 Images DSCf0047-50 all taken by me
+Link to original backrooms picture : https://i.4pcdn.org/x/1524371231850.jpg , original post its from has been deleted
+wallpaper sample : https://www.etsy.com/ca/listing/1662351356/backrooms-wallpaper-level-0-4-patterns 
+Poolrooms is by 3d artist Jared Pike
+rooms1 is by https://www.deviantart.com/ls608-germany533/art/Liminal-Space-19-The-Stairway-to-Nowhere-885352624  
+liminaltel original source picture could not be tracd
 
 
 ## Future Improvements
