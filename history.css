@@ -1,8 +1,10 @@
 @charset "utf-8";
 body {
     background-image: url("wallpaper.PNG");
+    
     background-repeat: no-repeat;
     background-size: cover;
+    background-color: #cfce71;
     font-family: 'special elite', monospace;
     margin: 0;
     padding: 3;
