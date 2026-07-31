@@ -1,7 +1,6 @@
 @charset "utf-8";
 body {
     background-image: url("wallpaper.PNG");
-    
     background-repeat: no-repeat;
     background-size: cover;
     background-color: #cfce71;
@@ -101,15 +100,16 @@ section {
  }
 
  a {
-    color: #d5e7f3;
+    color: #431200;
     background-color: 6691AC
  }
+
  footers {
     background-color: #000000;
     border-radius: 20px;
     padding: 0px;
     text-align: center;
-    color: #d5e7f3;
+    color: #fff9dd;
      position: absolute;
      bottom: 0;
      
